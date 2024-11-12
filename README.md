@@ -21,6 +21,5 @@ backend "s3" {
 }
 ```
 
-## Conclusion
-This configuration sets up a remote backend with S3 and optional state locking via DynamoDB, providing a robust, team-friendly way to manage Terraform State File.
-
+### Conclusion
+## This configuration sets up a remote backend with S3 and optional state locking via DynamoDB, providing a robust, team-friendly way to manage Terraform State File.
