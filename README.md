@@ -16,8 +16,6 @@ backend "s3" {
     key    = "Path to Terraform State File in the S3 Bucket"
 
     dynamodb_table = "DynamoDB Table"
-
-    profile = "terraform"
 }
 ```
 
